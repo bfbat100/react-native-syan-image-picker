@@ -1,0 +1,19 @@
+# OSX
+#
+.DS_Store
+
+# Xcode
+#
+build/
+build/
+.idea
+.gradle
+local.properties
+*.iml
+
+# CocoaPods
+/ios/Pods/
+ios/Podfile.lock
+ios/Podfile.lock
+.vscode/settings.json
+yarn.lock
